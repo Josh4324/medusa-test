@@ -1,0 +1,5 @@
+1. User deposit must increase by amount added after deposits
+2. User withdraw must decrease by amount withdrawed after deposits
+3. Deposits must not exceed contract max deposits
+4. User must get interest after every year
+5. User should be able to wthdraw at anytime.
