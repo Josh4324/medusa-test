@@ -3,3 +3,4 @@
 3. Modify medusa.json
 4. Setup the Medusa test suite
 5. Run medusa fuzz
+6. Check Coverage
