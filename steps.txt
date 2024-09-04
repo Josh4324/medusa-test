@@ -1,0 +1,5 @@
+1. Identify the Invariants
+2. Run medusa init 
+3. Modify medusa.json
+4. Setup the Medusa test suite
+5. Run medusa fuzz
